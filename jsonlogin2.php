@@ -13,7 +13,7 @@ if($_POST) {
 
         $db_name     = 'tute_swift_login';
         $db_user     = 'root';
-        $db_password = 'mys092500';
+        $db_password = 'xxxx';
         $server_url  = 'localhost';
 
 			$mysqli = new mysqli('localhost', $db_user, $db_password, $db_name);
